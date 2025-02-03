@@ -3,7 +3,7 @@
 # Welcome to my Data Science Portfolio!  
 
 <p align="center">
-  <img src="images/Black Modern Personal LinkedIn Banner (1).png"%>
+  <img src="images/Black Modern Personal LinkedIn Banner.png">
 </p>
 
 Hello! I’m Giulia, a professional passionate about artificial intelligence and data analysis. This portfolio showcases some of my projects and professional experiences.  
