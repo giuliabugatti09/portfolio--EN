@@ -1,5 +1,5 @@
 # **Data Science Portfolio | Giulia Bugatti**  
-** Dev | AI & Data Analytics Professional**  
+**Dev | AI & Data Analytics Professional**  
 
 <p align="center">
   <img src="images/Black Modern Personal LinkedIn Banner.png" alt="Banner" width="800">
@@ -92,7 +92,7 @@ Here's a refined version of your Professional Experience and Education sections 
 
 ## **💼 Professional Experience**  
 
-### **Bradesco** | *Software Engineer* (Dec 2023 – Present)  
+### **Bradesco** | *Software Engineer Trainne* (Dec 2023 – Present)  
 - **Full-Stack Development**: Build and maintain financial applications using Java (Spring Boot), PHP (Laravel), and modern JavaScript frameworks  
 - **Data Engineering**: Optimize complex SQL queries for transactional reporting systems, improving query performance by 30%  
 - **DevOps Implementation**: Configure and maintain CI/CD pipelines using Jenkins, reducing deployment times by 40%  
