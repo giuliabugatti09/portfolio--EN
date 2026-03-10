@@ -1,119 +1,62 @@
-# **Data Science Portfolio | Giulia Bugatti**  
-**Dev | AI & Data Analytics Professional**  
+# ⚡ Giulia Bugatti | Data Scientist & AI Specialist
 
-<p align="center">
-  <img src="images/Black Modern Personal LinkedIn Banner.png" alt="Banner" width="800">
-</p>
+> **Transformando dados brutos em decisões estratégicas e soluções inteligentes.**
+> Estudante de inteligência artificial na FIAP | Especialista em Machine Learning e IA.
 
----
-
-## **🛠️ Technical Skills**  
-- **Languages**: Python, SQL, C, Java, C++, R, JavaSript 
-- **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow/Keras, NLP (NLTK), Spark  
-- **Visualization**: Matplotlib, Seaborn, Plotly, Dash  
-- **Tools**: Git/GitHub, VS Code, Docker, Kubernetes, Google Colab  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliabugatti02@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/giuliabugatti09?tab=repositories)
 
 ---
 
-## **📊 Featured Projects**  
+## 🛠️ Habilidades Técnicas
 
-### **1. Sentiment Analysis comments**  
-🔗 [GitHub](https://github.com/giuliabugatti09/sentiment-analysis-comments)  
-📌 *NLP model classifying IMDb reviews (Naive Bayes)*  
-- Achieved 85% accuracy in positive/negative sentiment classification.  
-- Deployed as a user-friendly text input → prediction interface.  
-- **Tech Stack**: NLTK, Scikit-Learn, Pandas  
-
-<p align="center">
-  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Exemplo-entrada%20e%20sai%CC%81da.png" width="45%">
-  <img src="https://github.com/giuliabugatti09/sentiment-analysis-comments/blob/main/images/Me%CC%81tricas%20de%20Desempenho.png" width="45%">
-</p>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python (Pandas, NumPy, Scikit-Learn), SQL, R, React, C++, JavaScript |
+| **IA & Machine Learning** | TensorFlow, Keras (CNN), XGBoost, NLP (NLTK), K-Means, PySpark |
+| **Visualização & BI** | Plotly, Seaborn, Matplotlib, Dash, Power BI, Tableau |
+| **DevOps & Tools** | Git/GitHub, Docker, Kubernetes, Google Colab, Streamlit |
 
 ---
 
-### **2. COVID-19 Policy Impact Analysis**  
-🔗 [GitHub](https://github.com/giuliabugatti09/COVID19-Global-Analytics)  
-📌 *Correlated lockdowns/vaccinations with case trends*  
-- Identified top 10 countries by infection rates using time-series analysis.  
-- Visualized vaccine rollout efficiency across continents.  
-- **Tech Stack**: Pandas, Matplotlib, Seaborn  
+## 🚀 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github.com/giuliabugatti09/COVID19-Global-Analytics/blob/main/images/paises_mais_casos_covid.png" width="45%">
-  <img src="https://github.com/giuliabugatti09/COVID19-Global-Analytics/blob/main/images/porcentagem_doses_vacina.png" width="45%">
-</p>
+### 🤖 [Protegendo o Futuro do Trabalho Digital](https://github.com/giuliabugatti09/Protecting-the-Future-of-Digital-Work)
+Análise do impacto da IA nas ocupações globais (2024-2030).
+* **Destaque:** Uso de **K-Means Clustering** para identificar perfis de risco e **Random Forest** para modelagem preditiva.
+* **Stack:** Python, Scikit-Learn, Streamlit.
 
----
+### ⛑️ [Detector de EPI com Visão Computacional](https://github.com/giuliabugatti09/PPE-Detector-CNN-)
+Classificação binária de uso de capacetes em ambientes industriais para segurança do trabalho.
+* **Destaque:** Arquitetura **CNN construída do zero** com foco em eficiência (apenas 24k parâmetros).
+* **Stack:** TensorFlow, Keras, Streamlit.
 
-### **3. Credit Card Churn Prediction**  
-🔗 [GitHub](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)  
-📌 *XGBoost model predicting customer attrition*  
-- Reduced false negatives by 20% through feature engineering.  
-- Highlighted key churn drivers: low transaction frequency + high complaints.  
-- **Tech Stack**: Scikit-Learn, XGBoost, Plotly  
+### 💳 [Previsão de Churn em Cartões de Crédito](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
+Modelo para prever cancelamentos de clientes e reduzir a evasão bancária.
+* **Destaque:** Redução de **20% nos falsos negativos** utilizando o algoritmo XGBoost.
+* **Stack:** XGBoost, Scikit-Learn, Plotly.
 
-<p align="center">
-  <img src="https://github.com/giuliabugatti09/bank_credit_card_churn_predicition/blob/main/images/Proporc%CC%A7a%CC%83o_cancelamento.png" width="45%">
-  <img src="https://github.com/giuliabugatti09/bank_credit_card_churn_predicition/blob/main/images/taxa_cancelamento.png" width="45%">
-</p>
+### 🏥 [Sistema de Prescrição para Câncer de Mama](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
+Classificação de tumores (benignos/malignos) e recomendações automatizadas de tratamento.
+* **Destaque:** Interface interativa para inserção de dados clínicos e previsão de risco em tempo real.
+* **Stack:** Scikit-Learn, Pandas, Matplotlib.
 
----
+### 5️⃣ [Análise de Sentimento em Comentários](https://github.com/giuliabugatti09/sentiment-analysis-comments)
+Classificação automatizada de sentimentos em grandes volumes de texto (IMDb).
+* **Destaque:** Implementa técnicas de **NLP** para classificar reviews com **85% de acurácia**.
+* **Stack:** NLTK, Scikit-Learn, Pandas.
 
-### **4. Breast Cancer Prescription**  
-🔗 [GitHub](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)  
-📌 *Predictive modeling for breast cancer diagnosis and treatment*  
-- Built ML models to classify benign vs. malignant tumors with high accuracy.  
-- Provided interpretable feature importance to support medical decision-making.  
-- Developed an interface for inputting patient data and receiving risk predictions.  
-- **Tech Stack**: Scikit-Learn, Pandas, Matplotlib  
+### 6️⃣ [Impacto de Políticas na COVID-19](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
+Análise exploratória de dados sobre a eficácia de medidas governamentais e vacinação.
+* **Destaque:** Cruza dados de lockdowns e doses aplicadas para identificar tendências de controle da pandemia.
+* **Stack:** Pandas, Matplotlib, Seaborn.
 
-<p align="center">
-  <img src="https://github.com/giuliabugatti09/Breast-Cancer-Prescription/blob/main/images/matriz_confusao" width="45%">
-  <img src="https://github.com/giuliabugatti09/Breast-Cancer-Prescription/blob/main/images/top10variaveis" width="45%">
-</p>
-
----
-
-### **5. Movie Recommendation System**  
-🔗 [GitHub](https://github.com/giuliabugatti09/Movie-Recommendation-System)  
-📌 *Personalized movie recommendations using collaborative filtering*  
-- Implemented user-based and item-based filtering for optimal recommendations.  
-- Developed interactive web application for real-time movie suggestions.  
-- Analyzed user preferences and trends, visualizing rating distributions.  
-- **Tech Stack**: Pandas, Scikit-Learn, Streamlit  
-
-<p align="center">
-  <img src="https://github.com/giuliabugatti09/Movie-Recommendation-System/blob/main/images/app_deploy.png" width="75%">
-</p>
-
-Here's a refined version of your Professional Experience and Education sections that maintains professionalism while emphasizing your technical contributions:
-
----
-
-## **💼 Professional Experience**  
-
-### **Bradesco** | *Software Engineer Trainne* (Dec 2023 – Present)  
-- **Full-Stack Development**: Build and maintain financial applications using Java (Spring Boot), PHP (Laravel), and modern JavaScript frameworks  
-- **Data Engineering**: Optimize complex SQL queries for transactional reporting systems, improving query performance by 30%  
-- **DevOps Implementation**: Configure and maintain CI/CD pipelines using Jenkins, reducing deployment times by 40%  
-- **Infrastructure Management**: Containerize applications using Docker and orchestrate deployments in Kubernetes environments  
-
----
-
-## **🎓 Education**  
-
-### **FIAP** | *MSc in Artificial Intelligence* (2025–2026)  
-- **Core Focus**:  
-  - Machine Learning Engineering (MLOps, Model Deployment)  
-  - Natural Language Processing (Transformer Architectures)  
-  - Computer Vision (Real-time Object Detection Systems)  
-  - Generative AI (Diffusion Models, LLM Fine-tuning)  
-- **Thesis Research**: Applied AI for Financial Fraud Detection  
+### 7️⃣ [Sistema de Recomendação de Filmes](https://github.com/giuliabugatti09/Movie-Recommendation-System)
+Motor de recomendação personalizado baseado em comportamento de usuários.
+* **Destaque:** Utiliza **filtragem colaborativa** para sugerir conteúdos em tempo real através de uma interface web.
+* **Stack:** Pandas, Scikit-Learn, Streamlit.
 
 
-## **📩 Contact**  
-✉️ giuliabugatti02@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)  
-💻 [GitHub](https://github.com/giuliabugatti09)  
-
-
+**Gostou do meu trabalho?** Vamos conversar sobre dados e inovação!
+📫 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/) | 📧 [E-mail](mailto:giuliabugatti02@gmail.com)
