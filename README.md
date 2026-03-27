@@ -13,7 +13,7 @@
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python (Pandas, NumPy, Scikit-Learn), SQL, R, React, C++, JavaScript |
+| **Linguagens** | Python (Pandas, NumPy, Scikit-Learn), SQL, R |
 | **IA & Machine Learning** | TensorFlow, Keras (CNN), XGBoost, NLP (NLTK), K-Means, PySpark |
 | **Visualização & BI** | Plotly, Seaborn, Matplotlib, Dash, Power BI, Tableau |
 | **DevOps & Tools** | Git/GitHub, Docker, Kubernetes, Google Colab, Streamlit |
@@ -22,17 +22,17 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [Protegendo o Futuro do Trabalho Digital](https://github.com/giuliabugatti09/Protecting-the-Future-of-Digital-Work)
+###  [Protegendo o Futuro do Trabalho Digital](https://github.com/giuliabugatti09/Protecting-the-Future-of-Digital-Work)
 Análise do impacto da IA nas ocupações globais (2024-2030).
 * **Destaque:** Uso de **K-Means Clustering** para identificar perfis de risco e **Random Forest** para modelagem preditiva.
 * **Stack:** Python, Scikit-Learn, Streamlit.
 
-### ⛑️ [Detector de EPI com Visão Computacional](https://github.com/giuliabugatti09/PPE-Detector-CNN-)
+### [Detector de EPI com Visão Computacional](https://github.com/giuliabugatti09/PPE-Detector-CNN-)
 Classificação binária de uso de capacetes em ambientes industriais para segurança do trabalho.
 * **Destaque:** Arquitetura **CNN construída do zero** com foco em eficiência (apenas 24k parâmetros).
 * **Stack:** TensorFlow, Keras, Streamlit.
 
-### 💳 [Previsão de Churn em Cartões de Crédito](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
+###  [Previsão de Churn em Cartões de Crédito](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
 Modelo para prever cancelamentos de clientes e reduzir a evasão bancária.
 * **Destaque:** Redução de **20% nos falsos negativos** utilizando o algoritmo XGBoost.
 * **Stack:** XGBoost, Scikit-Learn, Plotly.
@@ -42,17 +42,17 @@ Classificação de tumores (benignos/malignos) e recomendações automatizadas d
 * **Destaque:** Interface interativa para inserção de dados clínicos e previsão de risco em tempo real.
 * **Stack:** Scikit-Learn, Pandas, Matplotlib.
 
-### 5️⃣ [Análise de Sentimento em Comentários](https://github.com/giuliabugatti09/sentiment-analysis-comments)
+###  [Análise de Sentimento em Comentários](https://github.com/giuliabugatti09/sentiment-analysis-comments)
 Classificação automatizada de sentimentos em grandes volumes de texto (IMDb).
 * **Destaque:** Implementa técnicas de **NLP** para classificar reviews com **85% de acurácia**.
 * **Stack:** NLTK, Scikit-Learn, Pandas.
 
-### 6️⃣ [Impacto de Políticas na COVID-19](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
+###  [Impacto de Políticas na COVID-19](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
 Análise exploratória de dados sobre a eficácia de medidas governamentais e vacinação.
 * **Destaque:** Cruza dados de lockdowns e doses aplicadas para identificar tendências de controle da pandemia.
 * **Stack:** Pandas, Matplotlib, Seaborn.
 
-### 7️⃣ [Sistema de Recomendação de Filmes](https://github.com/giuliabugatti09/Movie-Recommendation-System)
+### [Sistema de Recomendação de Filmes](https://github.com/giuliabugatti09/Movie-Recommendation-System)
 Motor de recomendação personalizado baseado em comportamento de usuários.
 * **Destaque:** Utiliza **filtragem colaborativa** para sugerir conteúdos em tempo real através de uma interface web.
 * **Stack:** Pandas, Scikit-Learn, Streamlit.
