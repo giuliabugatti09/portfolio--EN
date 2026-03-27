@@ -37,7 +37,7 @@ Modelo para prever cancelamentos de clientes e reduzir a evasão bancária.
 * **Destaque:** Redução de **20% nos falsos negativos** utilizando o algoritmo XGBoost.
 * **Stack:** XGBoost, Scikit-Learn, Plotly.
 
-### 🏥 [Sistema de Prescrição para Câncer de Mama](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
+### [Sistema de Prescrição para Câncer de Mama](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
 Classificação de tumores (benignos/malignos) e recomendações automatizadas de tratamento.
 * **Destaque:** Interface interativa para inserção de dados clínicos e previsão de risco em tempo real.
 * **Stack:** Scikit-Learn, Pandas, Matplotlib.
