@@ -1,62 +1,66 @@
-# ⚡ Giulia Bugatti | Data Scientist & AI Specialist
+# ⚡ Giulia Bugatti | AI Engineer & Data Scientist
 
-> **Transformando dados brutos em decisões estratégicas e soluções inteligentes.**
-> Estudante de inteligência artificial na FIAP | Especialista em Machine Learning e IA.
+> **Transforming complex data into high-reliability intelligent systems.**
+> AI Engineering Student at FIAP | Specialist in Computer Vision and Predictive Modeling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliabugatti02@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/giuliabugatti09?tab=repositories)
+[](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/)
+[](mailto:giuliabugatti02@gmail.com)
+[](https://github.com/giuliabugatti09?tab=repositories)
 
----
+-----
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | Python (Pandas, NumPy, Scikit-Learn), SQL, R |
-| **IA & Machine Learning** | TensorFlow, Keras (CNN), XGBoost, NLP (NLTK), K-Means, PySpark |
-| **Visualização & BI** | Plotly, Seaborn, Matplotlib, Dash, Power BI, Tableau |
-| **DevOps & Tools** | Git/GitHub, Docker, Kubernetes, Google Colab, Streamlit |
+| **Languages** | Python (Pandas, NumPy, Scikit-Learn), SQL, R |
+| **Deep Learning** | TensorFlow, Keras 3, CNN Architecture, Data Augmentation |
+| **Machine Learning** | XGBoost, Random Forest, K-Means Clustering, Class Imbalance Handling |
+| **NLP** | NLTK, Sentiment Analysis, Text Preprocessing |
+| **Cloud & Deployment** | Streamlit, Google Colab, Git/GitHub, Docker |
 
----
+-----
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-###  [Protegendo o Futuro do Trabalho Digital](https://github.com/giuliabugatti09/Protecting-the-Future-of-Digital-Work)
-Análise do impacto da IA nas ocupações globais (2024-2030).
-* **Destaque:** Uso de **K-Means Clustering** para identificar perfis de risco e **Random Forest** para modelagem preditiva.
-* **Stack:** Python, Scikit-Learn, Streamlit.
+### ⛑️ [PPE Detector with Computer Vision](https://github.com/giuliabugatti09/PPE-Detector-CNN-)
 
-### [Detector de EPI com Visão Computacional](https://github.com/giuliabugatti09/PPE-Detector-CNN-)
-Classificação binária de uso de capacetes em ambientes industriais para segurança do trabalho.
-* **Destaque:** Arquitetura **CNN construída do zero** com foco em eficiência (apenas 24k parâmetros).
-* **Stack:** TensorFlow, Keras, Streamlit.
+Industrial safety monitoring system for real-time hard hat detection.
 
-###  [Previsão de Churn em Cartões de Crédito](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
-Modelo para prever cancelamentos de clientes e reduzir a evasão bancária.
-* **Destaque:** Redução de **20% nos falsos negativos** utilizando o algoritmo XGBoost.
-* **Stack:** XGBoost, Scikit-Learn, Plotly.
+  * **Highlight:** Implemented **Class Weights** and **Sub-sampling** strategies to mitigate severe class imbalance, increasing safety-critical Recall to **+90%**.
+  * **Engineering:** Custom CNN architecture built from scratch, optimized for low computational latency and integrated into a real-time diagnostic dashboard.
+  * **Stack:** TensorFlow, Keras, Streamlit, OpenCV.
 
-### [Sistema de Prescrição para Câncer de Mama](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
-Classificação de tumores (benignos/malignos) e recomendações automatizadas de tratamento.
-* **Destaque:** Interface interativa para inserção de dados clínicos e previsão de risco em tempo real.
-* **Stack:** Scikit-Learn, Pandas, Matplotlib.
+### 📊 [Protecting the Future of Digital Work](https://github.com/giuliabugatti09/Protecting-the-Future-of-Digital-Work)
 
-###  [Análise de Sentimento em Comentários](https://github.com/giuliabugatti09/sentiment-analysis-comments)
-Classificação automatizada de sentimentos em grandes volumes de texto (IMDb).
-* **Destaque:** Implementa técnicas de **NLP** para classificar reviews com **85% de acurácia**.
-* **Stack:** NLTK, Scikit-Learn, Pandas.
+Predictive analysis and clustering of AI's impact on global occupations (2024-2030).
 
-###  [Impacto de Políticas na COVID-19](https://github.com/giuliabugatti09/COVID19-Global-Analytics)
-Análise exploratória de dados sobre a eficácia de medidas governamentais e vacinação.
-* **Destaque:** Cruza dados de lockdowns e doses aplicadas para identificar tendências de controle da pandemia.
-* **Stack:** Pandas, Matplotlib, Seaborn.
+  * **Highlight:** Developed a full ML pipeline, from **K-Means Clustering** for exposure profiling to **XGBoost Classification** with 85% precision.
+  * **Engineering:** Implemented robust pipeline serialization using `joblib` to ensure data consistency between training and production environments.
+  * **Stack:** Scikit-Learn, XGBoost, Plotly, Streamlit.
 
-### [Sistema de Recomendação de Filmes](https://github.com/giuliabugatti09/Movie-Recommendation-System)
-Motor de recomendação personalizado baseado em comportamento de usuários.
-* **Destaque:** Utiliza **filtragem colaborativa** para sugerir conteúdos em tempo real através de uma interface web.
-* **Stack:** Pandas, Scikit-Learn, Streamlit.
+### 💳 [Credit Card Churn Prediction](https://github.com/giuliabugatti09/bank_credit_card_churn_predicition)
 
+Machine Learning model to forecast banking customer attrition and optimize retention strategies.
 
-**Gostou do meu trabalho?** Vamos conversar sobre dados e inovação!
-📫 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/) | 📧 [E-mail](mailto:giuliabugatti02@gmail.com)
+  * **Highlight:** Performed advanced hyperparameter tuning and threshold optimization, resulting in a **20% reduction in false negatives**.
+  * **Stack:** XGBoost, Scikit-Learn, Plotly.
+
+### 🧬 [Breast Cancer Prescription System](https://github.com/giuliabugatti09/Breast-Cancer-Prescription)
+
+Diagnostic classification and clinical decision support focused on precision medicine.
+
+  * **Highlight:** Interactive interface for cytological parameter input with immediate visual feedback on diagnostic probability.
+  * **Stack:** Scikit-Learn, Pandas, Matplotlib.
+
+### 🎬 [Movie Recommendation System](https://github.com/giuliabugatti09/Movie-Recommendation-System)
+
+Personalized recommendation engine based on user behavior and collaborative filtering.
+
+  * **Highlight:** Implemented a scalable logic to suggest content in real-time through a web interface.
+  * **Stack:** Pandas, Scikit-Learn, Streamlit.
+
+-----
+
+**Do you like my work?** Let's talk about data and innovation\!
+📫 [LinkedIn](https://www.linkedin.com/in/giulia-bugatti-fonseca-226955267/) | 📧 [Email](mailto:giuliabugatti02@gmail.com)
